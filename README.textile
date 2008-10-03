@@ -1,5 +1,14 @@
 
-h2. gentran-integration-suite-bpml
+h2. GIS Status and Error Reporting BPML
 
-<b>This it the first commit</b>
+
+h3. Purpose 
+
+
+The purpose of this project is to have an open source status and error reporting business process.   We are open to all suggestions and hoping that people will contribute to the project. 
+
+Please visit "EDITalk.com/forums/":http://EDITalk.com/forums/ for more information, more specificly this thread was created for this project here: "http://editalk.com/forums/showthread.php?p=686#post686":http://editalk.com/forums/showthread.php?p=686#post686
+
+Please join the forums and comment on the thread above.
+
 
